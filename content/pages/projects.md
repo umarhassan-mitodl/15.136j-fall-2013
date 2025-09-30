@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains details on the final project of the course, including
   objectives, deliverables, and sample topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

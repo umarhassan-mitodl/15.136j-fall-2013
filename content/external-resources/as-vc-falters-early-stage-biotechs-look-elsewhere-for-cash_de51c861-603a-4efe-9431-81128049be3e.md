@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.fiercebiotech.com/story/vc-falters-early-stage-biotechs-look-elsewhere-cash/2013-10-21
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: As VC Falters, Early-stage Biotechs Look Elsewhere for Cash

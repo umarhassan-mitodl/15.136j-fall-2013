@@ -5,6 +5,8 @@ description: This file contains the information regarding The Evolving Economics
 file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/c43f285ea0206c1aab383a2a20ddd4d4_MIT15_136JF13_Lec2_Dr.pdf
 file_size: 1543135
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

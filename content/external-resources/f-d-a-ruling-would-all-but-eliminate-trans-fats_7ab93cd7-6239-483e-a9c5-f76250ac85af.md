@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.nytimes.com/2013/11/08/health/fda-trans-fats.html?pagewanted=all
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: unchecked
 title: F. D. A. Ruling Would All but Eliminate Trans Fats

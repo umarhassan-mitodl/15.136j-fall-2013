@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://dx.doi.org/10.1007/s12247-008-9024-4
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Analysis of Manufacturing Costs in Pharmaceutical Companies

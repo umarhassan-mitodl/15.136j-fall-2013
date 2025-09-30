@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.bloomberg.com/news/2013-11-20/cholesterol-drug-from-trash-seen-preventing-heart-attack-health.html
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: unchecked
 title: Cholesterol Drug From Trash Seen Preventing Heart Attack

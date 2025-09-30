@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.nytimes.com/2012/10/18/business/drug-makers-stalled-in-a-cycle-of-quality-lapses-and-shortages.html?pagewanted=all&_r=1&
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: unchecked
 title: Lapses at Big Drug Factories Add to Shortages and Danger

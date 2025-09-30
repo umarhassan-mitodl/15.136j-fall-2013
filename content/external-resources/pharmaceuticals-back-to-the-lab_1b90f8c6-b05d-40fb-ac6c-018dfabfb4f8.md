@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.ft.com/intl/cms/s/0/e5679dae-e565-11e2-ad1a-00144feabdc0.html#axzz3FNYFnrPK
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: 'Pharmaceuticals: Back to the Lab'

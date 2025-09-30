@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.fiercepharma.com/story/novartis-hives-blood-diagnostics-17b-first-slim-down-sale/2013-11-11
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Novartis Hives Off Blood Diagnostics for $1.7B in First Slim-down Sale
