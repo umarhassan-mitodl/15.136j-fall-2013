@@ -3,8 +3,6 @@ content_type: page
 description: 'This section provides the list of required and recommended readings
   for each session of the course. '
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
