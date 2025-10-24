@@ -5,8 +5,6 @@ description: This file contains the information regarding Manufacturing in the P
 file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/78ff239c67be95e863369d8a9852493b_MIT15_136JF13_Lec12_Manu.pdf
 file_size: 661017
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

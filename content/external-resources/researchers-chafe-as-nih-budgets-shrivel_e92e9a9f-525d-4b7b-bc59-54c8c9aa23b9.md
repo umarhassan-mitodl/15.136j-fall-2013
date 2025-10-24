@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: http://www.genengnews.com/insight-and-intelligenceand153/researchers-chafe-as-nih-budgets-shrivel/77899895/
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Researchers Chafe as NIH Budgets Shrivel

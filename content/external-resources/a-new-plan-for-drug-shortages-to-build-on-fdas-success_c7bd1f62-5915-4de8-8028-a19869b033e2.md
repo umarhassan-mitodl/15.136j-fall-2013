@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: http://blogs.fda.gov/fdavoice/index.php/2013/10/a-new-plan-for-drug-shortages-to-build-on-fdas-success/
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: check_failed
 title: A New Plan for Drug Shortages to Build on FDA's Success
